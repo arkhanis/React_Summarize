@@ -1,3 +1,11 @@
+# Tech
+
+React.js
+TypeScript
+Redux Toolkit
+Tailwind CSS
+
+
 # Feature
 
 👉 Modern User Interface: A modern and user-friendly interface, offering an intuitive experience for users.
